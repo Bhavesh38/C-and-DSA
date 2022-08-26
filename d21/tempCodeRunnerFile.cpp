@@ -1,0 +1,1 @@
+swap(arr[s],arr[e]);

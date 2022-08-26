@@ -1,0 +1,1 @@
+{"name":"Local: bubblesort","url":"c:\\c++ and DSA practice\\sorting\\bubblesort.cpp","tests":[{"id":1645973109730,"input":"5\n-2 45 0 11 -9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ and DSA practice\\sorting\\bubblesort.cpp","group":"local","local":true}

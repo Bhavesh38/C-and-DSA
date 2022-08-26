@@ -1,0 +1,1 @@
+{"name":"Local: 07_pr","url":"c:\\c++ and DSA practice\\d10\\07_pr.cpp","tests":[{"id":1644227650677,"input":"6\n1 2 3 4 5 6","output":""},{"id":1644227661412,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ and DSA practice\\d10\\07_pr.cpp","group":"local","local":true}
